@@ -28,7 +28,7 @@ Sales Data: The primary dataset used for this analysis is the "sales_data.csv" f
 - Power BI - Creating Reports
 
 
-### Data Cleaning/Preparation
+### Data Cleaning
 
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and Inspection.
@@ -52,7 +52,7 @@ SELECT * FROM table1
 WHERE cond = 2;
 ```
 
-### Results/Findings
+### Results
 
 The analysis results are summarised as follows:
 1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season. 
