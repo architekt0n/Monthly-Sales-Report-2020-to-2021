@@ -5,9 +5,12 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- 
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
 - [Recommendations](#recommendations)
-- 
+- [Limitations](#limitations)
 
 ### Project Overview
 
@@ -25,12 +28,12 @@ Sales Data: The primary dataset used for this analysis is the "sales_data.csv" f
 - PowerBI - Creating Reports
 
 
-  ### Data Cleaning/Preparation
+### Data Cleaning/Preparation
 
-  In the initial data preparation phase, we performed the following tasks:
-  1. Data loading and Inspection.
-  2. Handling missing values.
-  3. Data Cleaning and formatting.
+In the initial data preparation phase, we performed the following tasks:
+1. Data loading and Inspection.
+2. Handling missing values.
+3. Data Cleaning and formatting.
  
 ### Exploratory Data Analysis
 
