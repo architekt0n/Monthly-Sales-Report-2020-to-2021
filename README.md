@@ -14,7 +14,7 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the sales performance of an e-commerce company over the last two years. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance. 
+This data analysis project aims to provide insights into the sales performance of an e-commerce company over the last two years. By analysing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance. 
 
 ### Data Sources
 
@@ -25,7 +25,7 @@ Sales Data: The primary dataset used for this analysis is the "sales_data.csv" f
 - Excel - Data Cleaning
   - [Download here](https://microsoft.com)
 - SQL Server - Data Analysis
-- PowerBI - Creating Reports
+- Power BI - Creating Reports
 
 
 ### Data Cleaning/Preparation
@@ -54,7 +54,7 @@ WHERE cond = 2;
 
 ### Results/Findings
 
-The analysis results are summarized as follows:
+The analysis results are summarised as follows:
 1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season. 
 2. Product Category A is the best performance category in terms of sales and revenue.
 3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
@@ -62,13 +62,13 @@ The analysis results are summarized as follows:
 ### Recommendations  
 
 Based on the analysis, we recommend the following actions:
-- Invest in marketing and promotions during peak sales seasons to maximize revenue.
+- Invest in marketing and promotions during peak sales seasons to maximise revenue.
 - Focus on expanding and promoting products in category A.
 - Implement a customer segmentation strategy to target high-LTV customers effectively.
 
 ### Limitations
 
-I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue. 
+I had to remove all zero values from the budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions, but even then we can still see that there is a positive correlation between both budget and number of votes with revenue. 
 
 ### References
 
